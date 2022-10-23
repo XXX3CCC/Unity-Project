@@ -1,0 +1,1 @@
+Target a VR App on a mobile phone, navigate using the phone’s capabilities, and display a scene in stereo using Google Cardboard. The model displayed is a low polygon medieval village from Unity assets.
